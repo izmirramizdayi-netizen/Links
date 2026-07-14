@@ -1,0 +1,39 @@
+# Telegram Bot
+python-telegram-bot==21.7
+
+
+# Database / Config
+python-dotenv==1.0.1
+
+
+# HTTP İstekleri
+requests==2.32.3
+httpx==0.27.2
+
+
+# Dosya ve sistem işlemleri
+psutil==6.1.0
+
+
+# Güvenlik / Hash
+cryptography==43.0.3
+
+
+# Tarih ve zaman işlemleri
+python-dateutil==2.9.0.post0
+
+
+# JSON / YAML ayarları
+PyYAML==6.0.2
+
+
+# Renkli terminal çıktıları
+colorama==0.4.6
+
+
+# Log ve hata yönetimi
+loguru==0.7.2
+
+
+# Async performans
+aiofiles==24.1.0
